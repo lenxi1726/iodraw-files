@@ -7,8 +7,8 @@
         <mxCell id="lQosoTo2BuRC6HAtCCNx-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="210" width="120" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="lQosoTo2BuRC6HAtCCNx-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="210" width="360" height="199" as="geometry" />
+        <mxCell id="lQosoTo2BuRC6HAtCCNx-2" value="数据手套交互系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="392" y="210" width="360" height="199" as="geometry" />
         </mxCell>
         <mxCell id="lQosoTo2BuRC6HAtCCNx-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="392" y="441" width="360" height="199" as="geometry" />
